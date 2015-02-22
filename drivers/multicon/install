@@ -1,0 +1,5 @@
+#!/bin/sh
+
+sudo dkms add -m multicon_gpio_rpi -v 1.0.0
+sudo dkms build -m multicon_gpio_rpi -v 1.0.0
+sudo dkms install -m multicon_gpio_rpi -v 1.0.0
