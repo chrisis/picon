@@ -6,8 +6,8 @@ From the home folder, clone into the git repository: <br/>
 
 Enter the directory drivers/ <br/>
 
-Move the directory to /usr/src/ and rename it multicon_gpio_rpi-1.0.0: <br/>
-> - sudo mv multicon /usr/src/multicon_gpio_rpi-1.0.0
+Move the directory to /usr/src/ and rename it combicon_gpio_rpi2-1.0.0: <br/>
+> - sudo mv multicon /usr/src/combicon_gpio_rpi2-1.0.0
 
 Run the install script found inside the directory: <br/>
 > - ./install

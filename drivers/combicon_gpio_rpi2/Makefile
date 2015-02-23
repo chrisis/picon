@@ -1,4 +1,4 @@
-obj-m := snescon_gpio_rpi.o
+obj-m := combicon_gpio_rpi2.o
 KVERSION := `uname -r`
 
 all:
